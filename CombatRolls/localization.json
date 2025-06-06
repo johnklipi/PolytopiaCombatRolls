@@ -1,0 +1,10 @@
+{
+	"combatrolls_title": {
+		"English": "You rolled the dice!",
+        "Russian": "Вы бросили кости!"
+	},
+	"combatrolls_message": {
+		"English": "You rolled the dice and got {0}.",
+        "Russian": "Вы бросили кости и выпало {0}."
+	}
+}
